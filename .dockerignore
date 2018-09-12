@@ -1,0 +1,9 @@
+node_modules
+.vscode
+*.jpg
+*.jpeg
+*.png
+*/**.png
+*/**.jpg
+*/**.jpeg
+src/data/*
